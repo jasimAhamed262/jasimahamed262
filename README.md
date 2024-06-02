@@ -5,7 +5,11 @@
 
 - 🌱 I’m currently learning **Cloud and Monitoring**
 
-- 💬 Ask me about **Devops a**
+- 💬 Ask me about **Devops**
+
+- 📫 How to reach me **jasimahamed262@gmail.com**
+
+- ⚡ Fun fact **love to learn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
